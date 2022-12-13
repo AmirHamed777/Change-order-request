@@ -1,0 +1,21 @@
+body{
+background-image: linear-gradient(to right, orange, rgb(0, 0, 170), white );
+}
+ #intro{
+font-size : 1.0em;
+color: blue;
+ }
+ #ButtonCSS{
+width: 100px;
+height: 100px;
+background-color: rgb(53, 255, 104);
+border-color: rgb(20, 168, 0);
+border-radius: 50px;
+ }
+ #ButtonCSS2{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-color: rgb(145, 1, 1);
+    border-radius: 50px;
+ }
